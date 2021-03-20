@@ -15,7 +15,13 @@ export class ComponentFilter extends LitElement {
       button{
         background-color: yellow;
         color: black;
+        border-radius: 10%;
+        border-width: .3rem;
+        padding: 1rem;
+        font-size: 15px;
+        cursor: pointer;
       }
+      
     `;
   }
 
